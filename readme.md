@@ -1,4 +1,4 @@
-# Chorus back-end engineer assessment submission
+# Avidbots assessment submission
 
 This project contains the rest api which processes map and robot statistics.
 
